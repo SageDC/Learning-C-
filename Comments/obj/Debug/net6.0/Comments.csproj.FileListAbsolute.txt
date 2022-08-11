@@ -1,0 +1,16 @@
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.exe
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.deps.json
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.runtimeconfig.json
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.dll
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.pdb
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\bin\Debug\net6.0\Comments.xml
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.csproj.AssemblyReference.cache
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.AssemblyInfoInputs.cache
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.AssemblyInfo.cs
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.dll
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\refint\Comments.dll
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.pdb
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\Comments.genruntimeconfig.cache
+C:\Users\darre\OneDrive\Desktop\CS-Code\Repos\Learning-C-\Comments\obj\Debug\net6.0\ref\Comments.dll
